@@ -16,3 +16,4 @@ eureka:
 
 # 自定义配置
 name: order-service-dev-3.0
+password: root
